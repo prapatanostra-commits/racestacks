@@ -1,4 +1,5 @@
-// File: frontend/app/page.tsx
+'use client';
+
 import dynamic from 'next/dynamic';
 
 // Disable SSR (Prerendering) untuk komponen ini

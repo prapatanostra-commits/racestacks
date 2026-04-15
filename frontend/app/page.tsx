@@ -13,7 +13,7 @@ const contractAddress = 'SP_WALLET_LU_DISINI';
 const contractName = 'racestacks';
 
 export default function Home() {
-  const [userData, setUserData] = useState(null);
+  const [userData, setUserData] = useState<any>(null);
 
   useEffect(() => {
     if (userSession.isSignInPending()) {

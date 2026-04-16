@@ -12,3 +12,5 @@ coverage
 costs-reports.json
 node_modules
 .env
+bot.sh
+keys.txt

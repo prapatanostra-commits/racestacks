@@ -5,26 +5,34 @@ import { useEffect, useState } from 'react';
 import { AppConfig, UserSession, showConnect, openContractCall } from '@stacks/connect';
 import { STACKS_MAINNET } from '@stacks/network';
 
-// Setup koneksi Stacks
 const appConfig = new AppConfig(['store_write', 'publish_data']);
 const userSession = new UserSession({ appConfig });
 
-// GANTI INI DENGAN ALAMAT WALLET MAINNET LU
+// GANTI INI DENGAN ALAMAT WALLET MAINNET LU NANTI
 const contractAddress = 'SP_WALLET_LU_DISINI'; 
 const contractName = 'racestacks';
 
 export default function RaceStacksApp() {
   const [userData, setUserData] = useState<any>(null);
+  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    if (userSession.isSignInPending()) {
-      userSession.handlePendingSignIn().then((userData) => {
-        setUserData(userData);
-      });
-    } else if (userSession.isUserSignedIn()) {
-      setUserData(userSession.loadUserData());
+    setMounted(true); // Pastikan komponen hanya dirender saat browser siap
+    try {
+      if (userSession.isSignInPending()) {
+        userSession.handlePendingSignIn().then((data) => {
+          setUserData(data);
+        });
+      } else if (userSession.isUserSignedIn()) {
+        setUserData(userSession.loadUserData());
+      }
+    } catch (error) {
+      console.error("Gagal memuat sesi wallet:", error);
     }
   }, []);
+
+  // Cegah render sebelum mounted (mencegah error dari object window/localStorage)
+  if (!mounted) return null;
 
   const connectWallet = () => {
     showConnect({
@@ -46,7 +54,7 @@ export default function RaceStacksApp() {
       contractAddress,
       contractName,
       functionName: 'tap',
-      functionArgs: [], // Fungsi tap lu nggak butuh argumen
+      functionArgs: [], 
       appDetails: {
         name: 'RaceStacks',
         icon: window.location.origin + '/favicon.ico',
@@ -57,6 +65,10 @@ export default function RaceStacksApp() {
       },
     });
   };
+
+  // AMAN DARI CRASH: Baca address dengan optional chaining dan sediakan fallback
+  const walletAddress = userData?.profile?.stxAddress?.mainnet || userData?.profile?.stxAddress?.testnet || '';
+  const displayAddress = walletAddress ? `${walletAddress.slice(0, 8)}...${walletAddress.slice(-4)}` : 'Format Wallet Tidak Dikenali';
 
   return (
     <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center justify-center p-4">
@@ -74,7 +86,7 @@ export default function RaceStacksApp() {
       ) : (
         <div className="text-center flex flex-col items-center">
           <p className="mb-8 text-gray-400 bg-gray-800 px-4 py-2 rounded-full text-sm">
-            Wallet: {userData.profile.stxAddress.mainnet.slice(0, 8)}...{userData.profile.stxAddress.mainnet.slice(-4)}
+            Wallet: {displayAddress}
           </p>
           
           <button

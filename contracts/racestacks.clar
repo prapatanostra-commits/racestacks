@@ -174,3 +174,6 @@
     (var-get top-10)
   )
 )
+
+(define-read-only (ping-1)
+  (ok true))

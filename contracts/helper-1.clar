@@ -10,3 +10,6 @@
 
 (define-read-only (ping-39)
   (ok true))
+
+(define-read-only (get-helper-47)
+  (ok u47))

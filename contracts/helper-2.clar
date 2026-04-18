@@ -19,3 +19,6 @@
 
 (define-read-only (get-helper-64)
   (ok u64))
+
+(define-read-only (ping-70)
+  (ok true))

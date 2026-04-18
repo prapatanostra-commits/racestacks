@@ -34,3 +34,6 @@
 
 (define-read-only (get-helper-200)
   (ok u200))
+
+(define-read-only (ping-220)
+  (ok true))

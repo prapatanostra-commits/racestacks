@@ -4,3 +4,6 @@
 
 (define-read-only (get-helper-86)
   (ok u86))
+
+(define-read-only (get-helper-122)
+  (ok u122))

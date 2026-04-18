@@ -13,3 +13,6 @@
 
 (define-read-only (get-helper-17)
   (ok u17))
+
+(define-read-only (get-helper-18)
+  (ok u18))

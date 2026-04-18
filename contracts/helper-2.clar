@@ -7,3 +7,6 @@
 
 (define-read-only (ping-5)
   (ok true))
+
+(define-read-only (get-helper-12)
+  (ok u12))

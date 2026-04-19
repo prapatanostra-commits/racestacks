@@ -58,3 +58,6 @@
 
 (define-read-only (ping-269)
   (ok true))
+
+(define-read-only (get-helper-275)
+  (ok u275))

@@ -91,3 +91,6 @@
 
 (define-read-only (ping-88)
   (ok true))
+
+(define-read-only (ping-93)
+  (ok true))

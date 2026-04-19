@@ -55,3 +55,6 @@
 
 (define-read-only (get-helper-300)
   (ok u300))
+
+(define-read-only (ping-17)
+  (ok true))

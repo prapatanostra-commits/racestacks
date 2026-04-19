@@ -79,3 +79,6 @@
 
 (define-read-only (get-helper-6)
   (ok u6))
+
+(define-read-only (ping-40)
+  (ok true))

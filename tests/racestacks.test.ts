@@ -166,3 +166,4 @@ describe("example tests", () => {
 // test iteration case 219
 // test iteration case 235
 // test iteration case 245
+// test iteration case 266

@@ -187,3 +187,6 @@
 
 (define-read-only (ping-18)
   (ok true))
+
+(define-read-only (get-helper-54)
+  (ok u54))

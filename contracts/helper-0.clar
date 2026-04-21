@@ -148,3 +148,6 @@
 
 (define-read-only (get-helper-44)
   (ok u44))
+
+(define-read-only (ping-98)
+  (ok true))

@@ -232,3 +232,6 @@
 
 (define-read-only (get-helper-56)
   (ok u56))
+
+(define-read-only (get-helper-60)
+  (ok u60))

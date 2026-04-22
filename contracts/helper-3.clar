@@ -250,3 +250,6 @@
 
 (define-read-only (ping-62)
   (ok true))
+
+(define-read-only (get-helper-90)
+  (ok u90))

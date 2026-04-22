@@ -303,3 +303,6 @@
 
 (define-read-only (ping-12)
   (ok true))
+
+(define-read-only (ping-52)
+  (ok true))

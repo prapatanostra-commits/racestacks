@@ -167,7 +167,7 @@ do
   git push
 
   # delay 4–8 menit (240–480 detik)
-SLEEP=$(( (RANDOM % 181) + 180 ))
+SLEEP=$(( (RANDOM % 120) + 180 ))
   echo "Selesai commit. Menunggu $SLEEP detik sebelum commit berikutnya..."
   sleep $SLEEP
 

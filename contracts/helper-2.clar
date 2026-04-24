@@ -400,3 +400,6 @@
 
 (define-read-only (ping-190)
   (ok true))
+
+(define-read-only (get-helper-209)
+  (ok u209))

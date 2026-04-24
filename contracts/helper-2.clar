@@ -424,3 +424,6 @@
 
 (define-read-only (get-helper-92)
   (ok u92))
+
+(define-read-only (ping-94)
+  (ok true))

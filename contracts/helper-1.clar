@@ -301,3 +301,6 @@
 
 (define-read-only (ping-144)
   (ok true))
+
+(define-read-only (get-helper-160)
+  (ok u160))

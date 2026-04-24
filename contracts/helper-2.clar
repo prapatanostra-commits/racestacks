@@ -397,3 +397,6 @@
 
 (define-read-only (get-helper-188)
   (ok u188))
+
+(define-read-only (ping-190)
+  (ok true))

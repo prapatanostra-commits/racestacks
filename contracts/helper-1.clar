@@ -280,3 +280,6 @@
 
 (define-read-only (ping-43)
   (ok true))
+
+(define-read-only (get-helper-3)
+  (ok u3))

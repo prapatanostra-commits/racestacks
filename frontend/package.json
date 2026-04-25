@@ -1,17 +1,30 @@
 {
-  "name": "frontend",
+  "name": "racestacks-frontend",
   "version": "0.1.0",
   "private": true,
+  "description": "A decentralized application built on Stacks Blockchain",
+  "keywords": [
+    "stacks",
+    "clarity",
+    "bitcoin-layer2",
+    "web3",
+    "stx"
+  ],
+  "author": "prapatanostra-commits",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "next lint"
   },
   "dependencies": {
+    "@stacks/auth": "^7.3.0",
+    "@stacks/common": "^7.3.0",
     "@stacks/connect": "^8.2.6",
     "@stacks/network": "^7.3.1",
     "@stacks/transactions": "^7.4.0",
+    "micro-stacks": "^1.3.1",
     "next": "16.2.3",
     "react": "19.2.4",
     "react-dom": "19.2.4"

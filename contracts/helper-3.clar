@@ -433,3 +433,6 @@
 
 (define-read-only (get-helper-175)
   (ok u175))
+
+(define-read-only (get-helper-15)
+  (ok u15))

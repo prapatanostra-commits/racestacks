@@ -445,3 +445,6 @@
 
 (define-read-only (get-helper-12)
   (ok u12))
+
+(define-read-only (ping-22)
+  (ok true))

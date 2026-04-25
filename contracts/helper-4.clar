@@ -370,3 +370,6 @@
 
 (define-read-only (ping-21)
   (ok true))
+
+(define-read-only (get-helper-34)
+  (ok u34))

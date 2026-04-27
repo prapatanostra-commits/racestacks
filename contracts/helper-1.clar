@@ -448,3 +448,6 @@
 
 (define-read-only (ping-210)
   (ok true))
+
+(define-read-only (get-helper-218)
+  (ok u218))

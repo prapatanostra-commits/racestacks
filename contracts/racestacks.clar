@@ -450,3 +450,6 @@
 
 (define-read-only (ping-52)
   (ok true))
+
+(define-read-only (ping-99)
+  (ok true))

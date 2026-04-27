@@ -520,3 +520,6 @@
 
 (define-read-only (ping-5)
   (ok true))
+
+(define-read-only (get-helper-10)
+  (ok u10))

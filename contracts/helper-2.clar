@@ -550,3 +550,6 @@
 
 (define-read-only (get-helper-91)
   (ok u91))
+
+(define-read-only (ping-104)
+  (ok true))

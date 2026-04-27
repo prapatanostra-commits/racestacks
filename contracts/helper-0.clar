@@ -391,3 +391,6 @@
 
 (define-read-only (get-helper-83)
   (ok u83))
+
+(define-read-only (ping-87)
+  (ok true))

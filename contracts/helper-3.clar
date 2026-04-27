@@ -505,3 +505,6 @@
 
 (define-read-only (get-helper-23)
   (ok u23))
+
+(define-read-only (ping-29)
+  (ok true))

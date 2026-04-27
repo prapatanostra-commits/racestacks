@@ -403,3 +403,6 @@
 
 (define-read-only (get-helper-127)
   (ok u127))
+
+(define-read-only (get-helper-207)
+  (ok u207))

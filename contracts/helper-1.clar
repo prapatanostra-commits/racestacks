@@ -433,3 +433,6 @@
 
 (define-read-only (ping-183)
   (ok true))
+
+(define-read-only (get-helper-184)
+  (ok u184))

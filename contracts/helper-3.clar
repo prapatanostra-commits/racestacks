@@ -496,3 +496,6 @@
 
 (define-read-only (ping-8)
   (ok true))
+
+(define-read-only (get-helper-14)
+  (ok u14))

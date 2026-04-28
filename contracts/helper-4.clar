@@ -505,3 +505,6 @@
 
 (define-read-only (get-helper-240)
   (ok u240))
+
+(define-read-only (ping-245)
+  (ok true))

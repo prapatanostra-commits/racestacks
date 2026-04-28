@@ -565,3 +565,6 @@
 
 (define-read-only (get-helper-190)
   (ok u190))
+
+(define-read-only (get-helper-200)
+  (ok u200))

@@ -571,3 +571,6 @@
 
 (define-read-only (get-helper-86)
   (ok u86))
+
+(define-read-only (get-helper-105)
+  (ok u105))

@@ -607,3 +607,6 @@
 
 (define-read-only (get-helper-47)
   (ok u47))
+
+(define-read-only (ping-53)
+  (ok true))

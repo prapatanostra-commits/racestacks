@@ -670,3 +670,6 @@
 
 (define-read-only (get-helper-41)
   (ok u41))
+
+(define-read-only (ping-80)
+  (ok true))

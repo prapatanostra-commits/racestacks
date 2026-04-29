@@ -547,3 +547,6 @@
 
 (define-read-only (get-helper-13)
   (ok u13))
+
+(define-read-only (ping-14)
+  (ok true))

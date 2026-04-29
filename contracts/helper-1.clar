@@ -658,3 +658,6 @@
 
 (define-read-only (get-helper-95)
   (ok u95))
+
+(define-read-only (get-helper-100)
+  (ok u100))

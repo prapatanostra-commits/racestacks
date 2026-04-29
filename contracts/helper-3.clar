@@ -700,3 +700,6 @@
 
 (define-read-only (ping-175)
   (ok true))
+
+(define-read-only (get-helper-185)
+  (ok u185))

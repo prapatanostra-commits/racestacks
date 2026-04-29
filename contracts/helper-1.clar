@@ -649,3 +649,6 @@
 
 (define-read-only (ping-69)
   (ok true))
+
+(define-read-only (ping-72)
+  (ok true))

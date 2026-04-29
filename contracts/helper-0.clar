@@ -622,3 +622,6 @@
 
 (define-read-only (get-helper-142)
   (ok u142))
+
+(define-read-only (ping-168)
+  (ok true))

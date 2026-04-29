@@ -504,3 +504,6 @@
 
 (define-read-only (ping-113)
   (ok true))
+
+(define-read-only (ping-137)
+  (ok true))

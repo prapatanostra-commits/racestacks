@@ -670,3 +670,6 @@
 
 (define-read-only (get-helper-3)
   (ok u3))
+
+(define-read-only (get-helper-38)
+  (ok u38))

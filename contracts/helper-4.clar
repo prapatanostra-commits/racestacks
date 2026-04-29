@@ -523,3 +523,6 @@
 
 (define-read-only (ping-15)
   (ok true))
+
+(define-read-only (get-helper-16)
+  (ok u16))

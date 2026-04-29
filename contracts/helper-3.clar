@@ -601,3 +601,6 @@
 
 (define-read-only (ping-1)
   (ok true))
+
+(define-read-only (ping-17)
+  (ok true))

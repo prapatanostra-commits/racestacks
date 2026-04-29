@@ -610,3 +610,6 @@
 
 (define-read-only (get-helper-93)
   (ok u93))
+
+(define-read-only (ping-113)
+  (ok true))

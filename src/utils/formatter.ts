@@ -1907,3 +1907,4 @@ export const VERSION_909 = '909';
 export const VERSION_927 = '927';
 export const VERSION_930 = '930';
 export const VERSION_933 = '933';
+export const VERSION_936 = '936';

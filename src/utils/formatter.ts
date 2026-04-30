@@ -1781,3 +1781,4 @@ export const VERSION_319 = '319';
 export const VERSION_320 = '320';
 export const VERSION_329 = '329';
 export const VERSION_335 = '335';
+export const VERSION_339 = '339';

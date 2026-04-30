@@ -1929,3 +1929,4 @@ export const VERSION_1044 = '1044';
 export const VERSION_1049 = '1049';
 export const VERSION_1067 = '1067';
 export const VERSION_1071 = '1071';
+export const VERSION_1078 = '1078';

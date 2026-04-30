@@ -800,3 +800,4 @@ export const VERSION_3990 = '3990';
 export const VERSION_3992 = '3992';
 export const VERSION_3995 = '3995';
 export const VERSION_3999 = '3999';
+export const VERSION_4002 = '4002';

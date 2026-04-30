@@ -1945,3 +1945,4 @@ export const VERSION_1157 = '1157';
 export const VERSION_1167 = '1167';
 export const VERSION_1170 = '1170';
 export const VERSION_1171 = '1171';
+export const VERSION_1174 = '1174';

@@ -150,3 +150,4 @@ export const VERSION_784 = '784';
 export const VERSION_788 = '788';
 export const VERSION_792 = '792';
 export const VERSION_794 = '794';
+export const VERSION_795 = '795';

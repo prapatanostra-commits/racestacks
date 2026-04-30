@@ -920,3 +920,4 @@ export const VERSION_4586 = '4586';
 export const VERSION_4599 = '4599';
 export const VERSION_4600 = '4600';
 export const VERSION_4603 = '4603';
+export const VERSION_4605 = '4605';

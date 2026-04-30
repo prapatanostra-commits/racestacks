@@ -460,3 +460,4 @@ export const VERSION_2305 = '2305';
 export const VERSION_2308 = '2308';
 export const VERSION_2310 = '2310';
 export const VERSION_2313 = '2313';
+export const VERSION_2327 = '2327';

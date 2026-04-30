@@ -1948,3 +1948,4 @@ export const VERSION_1171 = '1171';
 export const VERSION_1174 = '1174';
 export const VERSION_1186 = '1186';
 export const VERSION_1189 = '1189';
+export const VERSION_1196 = '1196';

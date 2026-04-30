@@ -67,3 +67,4 @@ export const VERSION_354 = '354';
 export const VERSION_359 = '359';
 export const VERSION_362 = '362';
 export const VERSION_369 = '369';
+export const VERSION_372 = '372';

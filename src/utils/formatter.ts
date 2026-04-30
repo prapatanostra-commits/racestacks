@@ -381,3 +381,4 @@ export const VERSION_1923 = '1923';
 export const VERSION_1929 = '1929';
 export const VERSION_1933 = '1933';
 export const VERSION_1934 = '1934';
+export const VERSION_1936 = '1936';

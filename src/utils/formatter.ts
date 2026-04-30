@@ -1413,3 +1413,4 @@ export const VERSION_1976 = '1976';
 export const VERSION_1977 = '1977';
 export const VERSION_1978 = '1978';
 export const VERSION_1986 = '1986';
+export const VERSION_1994 = '1994';

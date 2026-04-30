@@ -1207,3 +1207,4 @@ export const VERSION_967 = '967';
 export const VERSION_968 = '968';
 export const VERSION_970 = '970';
 export const VERSION_973 = '973';
+export const VERSION_982 = '982';

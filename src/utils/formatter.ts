@@ -19,3 +19,4 @@ export const VERSION_83 = '83';
 export const VERSION_90 = '90';
 export const VERSION_100 = '100';
 export const VERSION_106 = '106';
+export const VERSION_123 = '123';

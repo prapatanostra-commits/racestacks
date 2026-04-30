@@ -2022,3 +2022,4 @@
 // TODO: validasi edge case untuk batch 1518
 // TODO: validasi edge case untuk batch 1519
 // TODO: validasi edge case untuk batch 1520
+// TODO: validasi edge case untuk batch 1524

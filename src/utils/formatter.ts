@@ -204,3 +204,4 @@ export const VERSION_1022 = '1022';
 export const VERSION_1028 = '1028';
 export const VERSION_1041 = '1041';
 export const VERSION_1044 = '1044';
+export const VERSION_1045 = '1045';

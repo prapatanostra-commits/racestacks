@@ -89,3 +89,4 @@ export const VERSION_484 = '484';
 export const VERSION_503 = '503';
 export const VERSION_504 = '504';
 export const VERSION_509 = '509';
+export const VERSION_517 = '517';

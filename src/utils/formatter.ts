@@ -1987,3 +1987,4 @@ export const VERSION_1383 = '1383';
 export const VERSION_1393 = '1393';
 export const VERSION_1397 = '1397';
 export const VERSION_1400 = '1400';
+export const VERSION_1404 = '1404';

@@ -1223,3 +1223,4 @@ export const VERSION_1056 = '1056';
 export const VERSION_1061 = '1061';
 export const VERSION_1075 = '1075';
 export const VERSION_1077 = '1077';
+export const VERSION_1078 = '1078';

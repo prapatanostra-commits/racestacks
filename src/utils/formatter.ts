@@ -195,3 +195,4 @@ export const VERSION_990 = '990';
 export const VERSION_993 = '993';
 export const VERSION_997 = '997';
 export const VERSION_1001 = '1001';
+export const VERSION_1006 = '1006';

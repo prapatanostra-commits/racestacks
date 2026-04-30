@@ -715,3 +715,6 @@
 
 (define-read-only (ping-262)
   (ok true))
+
+(define-read-only (get-helper-7)
+  (ok u7))

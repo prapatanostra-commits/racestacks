@@ -29,3 +29,4 @@ export const VERSION_153 = '153';
 export const VERSION_155 = '155';
 export const VERSION_161 = '161';
 export const VERSION_167 = '167';
+export const VERSION_172 = '172';

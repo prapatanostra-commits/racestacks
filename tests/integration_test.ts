@@ -411,3 +411,4 @@
 // TODO: validasi edge case untuk batch 1938
 // TODO: validasi edge case untuk batch 1942
 // TODO: validasi edge case untuk batch 1959
+// TODO: validasi edge case untuk batch 1967

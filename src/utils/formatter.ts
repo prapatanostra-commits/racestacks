@@ -33,3 +33,4 @@ export const VERSION_172 = '172';
 export const VERSION_173 = '173';
 export const VERSION_182 = '182';
 export const VERSION_184 = '184';
+export const VERSION_186 = '186';

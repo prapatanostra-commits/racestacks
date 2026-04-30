@@ -391,3 +391,4 @@ export const VERSION_1978 = '1978';
 export const VERSION_1983 = '1983';
 export const VERSION_1988 = '1988';
 export const VERSION_1989 = '1989';
+export const VERSION_1996 = '1996';

@@ -1858,3 +1858,4 @@ export const VERSION_675 = '675';
 export const VERSION_676 = '676';
 export const VERSION_688 = '688';
 export const VERSION_693 = '693';
+export const VERSION_694 = '694';

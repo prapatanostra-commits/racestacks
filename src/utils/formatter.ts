@@ -388,3 +388,4 @@ export const VERSION_1951 = '1951';
 export const VERSION_1957 = '1957';
 export const VERSION_1962 = '1962';
 export const VERSION_1978 = '1978';
+export const VERSION_1983 = '1983';

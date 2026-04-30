@@ -210,3 +210,4 @@
 // TODO: validasi edge case untuk batch 1005
 // TODO: validasi edge case untuk batch 1009
 // TODO: validasi edge case untuk batch 1015
+// TODO: validasi edge case untuk batch 1027

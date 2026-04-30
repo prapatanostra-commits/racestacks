@@ -124,3 +124,4 @@ export const VERSION_652 = '652';
 export const VERSION_653 = '653';
 export const VERSION_656 = '656';
 export const VERSION_665 = '665';
+export const VERSION_667 = '667';

@@ -1915,3 +1915,4 @@ export const VERSION_980 = '980';
 export const VERSION_984 = '984';
 export const VERSION_986 = '986';
 export const VERSION_996 = '996';
+export const VERSION_998 = '998';

@@ -1670,3 +1670,4 @@ export const VERSION_3160 = '3160';
 export const VERSION_3174 = '3174';
 export const VERSION_3180 = '3180';
 export const VERSION_3181 = '3181';
+export const VERSION_3187 = '3187';

@@ -1401,3 +1401,4 @@ export const VERSION_1943 = '1943';
 export const VERSION_1944 = '1944';
 export const VERSION_1946 = '1946';
 export const VERSION_1951 = '1951';
+export const VERSION_1960 = '1960';

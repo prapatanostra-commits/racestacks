@@ -154,3 +154,4 @@ export const VERSION_795 = '795';
 export const VERSION_799 = '799';
 export const VERSION_801 = '801';
 export const VERSION_804 = '804';
+export const VERSION_805 = '805';

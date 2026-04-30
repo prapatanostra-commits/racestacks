@@ -457,3 +457,4 @@ export const VERSION_2299 = '2299';
 export const VERSION_2300 = '2300';
 export const VERSION_2301 = '2301';
 export const VERSION_2305 = '2305';
+export const VERSION_2308 = '2308';

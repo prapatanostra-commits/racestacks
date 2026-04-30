@@ -591,3 +591,4 @@ export const VERSION_2900 = '2900';
 export const VERSION_2906 = '2906';
 export const VERSION_2908 = '2908';
 export const VERSION_2918 = '2918';
+export const VERSION_2926 = '2926';

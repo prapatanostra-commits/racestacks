@@ -1115,3 +1115,4 @@ export const VERSION_496 = '496';
 export const VERSION_500 = '500';
 export const VERSION_505 = '505';
 export const VERSION_507 = '507';
+export const VERSION_511 = '511';

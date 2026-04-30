@@ -106,3 +106,4 @@ export const VERSION_566 = '566';
 export const VERSION_571 = '571';
 export const VERSION_584 = '584';
 export const VERSION_585 = '585';
+export const VERSION_590 = '590';

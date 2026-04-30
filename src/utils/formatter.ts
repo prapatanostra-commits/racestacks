@@ -1905,3 +1905,4 @@ export const VERSION_900 = '900';
 export const VERSION_904 = '904';
 export const VERSION_909 = '909';
 export const VERSION_927 = '927';
+export const VERSION_930 = '930';

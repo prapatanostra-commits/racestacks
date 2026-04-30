@@ -2170,3 +2170,4 @@ export const VERSION_2224 = '2224';
 export const VERSION_2232 = '2232';
 export const VERSION_2234 = '2234';
 export const VERSION_2243 = '2243';
+export const VERSION_2252 = '2252';

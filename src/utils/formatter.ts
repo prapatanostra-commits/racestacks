@@ -845,3 +845,4 @@ export const VERSION_4221 = '4221';
 export const VERSION_4224 = '4224';
 export const VERSION_4236 = '4236';
 export const VERSION_4238 = '4238';
+export const VERSION_4245 = '4245';

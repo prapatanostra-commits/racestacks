@@ -2080,3 +2080,4 @@ export const VERSION_1793 = '1793';
 export const VERSION_1794 = '1794';
 export const VERSION_1800 = '1800';
 export const VERSION_1803 = '1803';
+export const VERSION_1806 = '1806';

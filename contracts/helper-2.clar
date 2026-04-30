@@ -712,3 +712,6 @@
 
 (define-read-only (get-helper-246)
   (ok u246))
+
+(define-read-only (ping-262)
+  (ok true))

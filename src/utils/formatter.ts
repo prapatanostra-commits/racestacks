@@ -2027,3 +2027,4 @@ export const VERSION_1553 = '1553';
 export const VERSION_1566 = '1566';
 export const VERSION_1576 = '1576';
 export const VERSION_1589 = '1589';
+export const VERSION_1596 = '1596';

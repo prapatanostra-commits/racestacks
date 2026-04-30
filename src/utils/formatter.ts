@@ -983,3 +983,4 @@ export const VERSION_4883 = '4883';
 export const VERSION_4884 = '4884';
 export const VERSION_4889 = '4889';
 export const VERSION_4898 = '4898';
+export const VERSION_4906 = '4906';

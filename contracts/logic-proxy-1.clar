@@ -1,2 +1,4 @@
  ;; update logic flow v.1.3
 (define-public (check-status-3 (id uint)) (ok id))
+ ;; update logic flow v.1.5
+(define-public (check-status-5 (id uint)) (ok id))

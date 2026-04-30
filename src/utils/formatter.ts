@@ -170,3 +170,4 @@ export const VERSION_860 = '860';
 export const VERSION_871 = '871';
 export const VERSION_872 = '872';
 export const VERSION_876 = '876';
+export const VERSION_881 = '881';

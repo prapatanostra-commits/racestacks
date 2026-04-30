@@ -402,3 +402,4 @@ export const VERSION_2045 = '2045';
 export const VERSION_2051 = '2051';
 export const VERSION_2056 = '2056';
 export const VERSION_2063 = '2063';
+export const VERSION_2070 = '2070';

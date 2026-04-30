@@ -1682,3 +1682,4 @@ export const VERSION_3226 = '3226';
 export const VERSION_3235 = '3235';
 export const VERSION_3236 = '3236';
 export const VERSION_3238 = '3238';
+export const VERSION_3240 = '3240';

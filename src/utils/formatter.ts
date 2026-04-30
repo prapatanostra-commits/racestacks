@@ -1026,3 +1026,4 @@ export const VERSION_142 = '142';
 export const VERSION_149 = '149';
 export const VERSION_152 = '152';
 export const VERSION_153 = '153';
+export const VERSION_154 = '154';

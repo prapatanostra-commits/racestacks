@@ -1998,3 +1998,4 @@ export const VERSION_1435 = '1435';
 export const VERSION_1436 = '1436';
 export const VERSION_1441 = '1441';
 export const VERSION_1448 = '1448';
+export const VERSION_1452 = '1452';

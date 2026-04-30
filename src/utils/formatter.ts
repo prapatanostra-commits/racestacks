@@ -1181,3 +1181,4 @@ export const VERSION_834 = '834';
 export const VERSION_835 = '835';
 export const VERSION_836 = '836';
 export const VERSION_837 = '837';
+export const VERSION_841 = '841';

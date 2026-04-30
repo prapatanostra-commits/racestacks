@@ -375,3 +375,4 @@ export const VERSION_1903 = '1903';
 export const VERSION_1904 = '1904';
 export const VERSION_1910 = '1910';
 export const VERSION_1915 = '1915';
+export const VERSION_1916 = '1916';

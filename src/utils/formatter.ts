@@ -500,3 +500,4 @@ export const VERSION_2493 = '2493';
 export const VERSION_2496 = '2496';
 export const VERSION_2501 = '2501';
 export const VERSION_2503 = '2503';
+export const VERSION_2504 = '2504';

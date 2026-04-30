@@ -1069,3 +1069,4 @@ export const VERSION_293 = '293';
 export const VERSION_297 = '297';
 export const VERSION_301 = '301';
 export const VERSION_302 = '302';
+export const VERSION_305 = '305';

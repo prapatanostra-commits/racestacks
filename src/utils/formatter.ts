@@ -2374,3 +2374,4 @@ export const VERSION_3262 = '3262';
 export const VERSION_3264 = '3264';
 export const VERSION_3272 = '3272';
 export const VERSION_3275 = '3275';
+export const VERSION_3279 = '3279';

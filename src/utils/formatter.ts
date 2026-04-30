@@ -893,3 +893,4 @@ export const VERSION_4472 = '4472';
 export const VERSION_4474 = '4474';
 export const VERSION_4475 = '4475';
 export const VERSION_4476 = '4476';
+export const VERSION_4478 = '4478';

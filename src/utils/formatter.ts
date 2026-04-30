@@ -10,3 +10,4 @@ export const VERSION_41 = '41';
 export const VERSION_44 = '44';
 export const VERSION_45 = '45';
 export const VERSION_46 = '46';
+export const VERSION_52 = '52';

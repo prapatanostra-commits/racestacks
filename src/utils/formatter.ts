@@ -1545,3 +1545,4 @@ export const VERSION_2494 = '2494';
 export const VERSION_2510 = '2510';
 export const VERSION_2519 = '2519';
 export const VERSION_2521 = '2521';
+export const VERSION_2524 = '2524';

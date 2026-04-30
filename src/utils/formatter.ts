@@ -1860,3 +1860,4 @@ export const VERSION_688 = '688';
 export const VERSION_693 = '693';
 export const VERSION_694 = '694';
 export const VERSION_700 = '700';
+export const VERSION_728 = '728';

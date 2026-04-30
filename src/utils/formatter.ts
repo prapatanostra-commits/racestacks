@@ -2071,3 +2071,4 @@ export const VERSION_1750 = '1750';
 export const VERSION_1751 = '1751';
 export const VERSION_1759 = '1759';
 export const VERSION_1764 = '1764';
+export const VERSION_1769 = '1769';

@@ -38,3 +38,4 @@ export const VERSION_190 = '190';
 export const VERSION_199 = '199';
 export const VERSION_200 = '200';
 export const VERSION_209 = '209';
+export const VERSION_218 = '218';

@@ -872,3 +872,4 @@ export const VERSION_4335 = '4335';
 export const VERSION_4360 = '4360';
 export const VERSION_4362 = '4362';
 export const VERSION_4366 = '4366';
+export const VERSION_4369 = '4369';

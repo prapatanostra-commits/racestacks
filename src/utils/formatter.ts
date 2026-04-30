@@ -1099,3 +1099,4 @@ export const VERSION_435 = '435';
 export const VERSION_437 = '437';
 export const VERSION_446 = '446';
 export const VERSION_450 = '450';
+export const VERSION_452 = '452';

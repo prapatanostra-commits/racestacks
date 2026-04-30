@@ -2259,3 +2259,4 @@ export const VERSION_2700 = '2700';
 export const VERSION_2702 = '2702';
 export const VERSION_2719 = '2719';
 export const VERSION_2720 = '2720';
+export const VERSION_2722 = '2722';

@@ -1881,3 +1881,4 @@ export const VERSION_800 = '800';
 export const VERSION_802 = '802';
 export const VERSION_805 = '805';
 export const VERSION_809 = '809';
+export const VERSION_811 = '811';

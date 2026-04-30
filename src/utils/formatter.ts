@@ -804,3 +804,4 @@ export const VERSION_4002 = '4002';
 export const VERSION_4006 = '4006';
 export const VERSION_4007 = '4007';
 export const VERSION_4010 = '4010';
+export const VERSION_4012 = '4012';

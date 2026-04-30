@@ -658,3 +658,6 @@
 
 (define-read-only (ping-36)
   (ok true))
+
+(define-read-only (get-helper-46)
+  (ok u46))

@@ -60,3 +60,4 @@ export const VERSION_321 = '321';
 export const VERSION_326 = '326';
 export const VERSION_328 = '328';
 export const VERSION_336 = '336';
+export const VERSION_342 = '342';

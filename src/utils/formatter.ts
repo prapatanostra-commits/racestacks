@@ -1744,3 +1744,4 @@ export const VERSION_128 = '128';
 export const VERSION_130 = '130';
 export const VERSION_134 = '134';
 export const VERSION_136 = '136';
+export const VERSION_144 = '144';

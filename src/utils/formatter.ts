@@ -2132,3 +2132,4 @@ export const VERSION_1990 = '1990';
 export const VERSION_1994 = '1994';
 export const VERSION_1995 = '1995';
 export const VERSION_2014 = '2014';
+export const VERSION_2016 = '2016';

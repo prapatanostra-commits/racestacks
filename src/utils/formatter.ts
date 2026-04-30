@@ -2224,3 +2224,4 @@ export const VERSION_2489 = '2489';
 export const VERSION_2494 = '2494';
 export const VERSION_2495 = '2495';
 export const VERSION_2504 = '2504';
+export const VERSION_2506 = '2506';

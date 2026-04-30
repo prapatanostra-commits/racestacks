@@ -1875,3 +1875,4 @@ export const VERSION_775 = '775';
 export const VERSION_776 = '776';
 export const VERSION_782 = '782';
 export const VERSION_787 = '787';
+export const VERSION_792 = '792';

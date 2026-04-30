@@ -1796,3 +1796,4 @@ export const VERSION_400 = '400';
 export const VERSION_401 = '401';
 export const VERSION_403 = '403';
 export const VERSION_411 = '411';
+export const VERSION_412 = '412';

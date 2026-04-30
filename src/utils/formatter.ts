@@ -100,3 +100,4 @@ export const VERSION_544 = '544';
 export const VERSION_546 = '546';
 export const VERSION_549 = '549';
 export const VERSION_556 = '556';
+export const VERSION_560 = '560';

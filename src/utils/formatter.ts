@@ -589,3 +589,4 @@ export const VERSION_2894 = '2894';
 export const VERSION_2898 = '2898';
 export const VERSION_2900 = '2900';
 export const VERSION_2906 = '2906';
+export const VERSION_2908 = '2908';

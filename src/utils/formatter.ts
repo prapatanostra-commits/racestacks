@@ -1007,3 +1007,4 @@ export const VERSION_14 = '14';
 export const VERSION_22 = '22';
 export const VERSION_25 = '25';
 export const VERSION_31 = '31';
+export const VERSION_32 = '32';

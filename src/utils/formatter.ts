@@ -1212,3 +1212,4 @@ export const VERSION_989 = '989';
 export const VERSION_995 = '995';
 export const VERSION_996 = '996';
 export const VERSION_998 = '998';
+export const VERSION_1002 = '1002';

@@ -345,3 +345,4 @@ export const VERSION_1751 = '1751';
 export const VERSION_1752 = '1752';
 export const VERSION_1762 = '1762';
 export const VERSION_1764 = '1764';
+export const VERSION_1771 = '1771';

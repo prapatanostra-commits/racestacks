@@ -1939,3 +1939,4 @@ export const VERSION_1105 = '1105';
 export const VERSION_1124 = '1124';
 export const VERSION_1125 = '1125';
 export const VERSION_1127 = '1127';
+export const VERSION_1142 = '1142';

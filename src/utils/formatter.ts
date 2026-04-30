@@ -72,3 +72,4 @@ export const VERSION_382 = '382';
 export const VERSION_386 = '386';
 export const VERSION_390 = '390';
 export const VERSION_393 = '393';
+export const VERSION_400 = '400';

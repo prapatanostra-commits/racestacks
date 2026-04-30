@@ -386,3 +386,4 @@ export const VERSION_1937 = '1937';
 export const VERSION_1950 = '1950';
 export const VERSION_1951 = '1951';
 export const VERSION_1957 = '1957';
+export const VERSION_1962 = '1962';

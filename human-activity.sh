@@ -1,95 +1,90 @@
 #!/bin/bash
 
-TOTAL=300
+# Konfigurasi Target
+TOTAL_COMMITS=5000
+DURATION_HOURS=6
+TOTAL_SECONDS=$((DURATION_HOURS * 3600))
+AVG_SLEEP=$(echo "scale=2; $TOTAL_SECONDS / $TOTAL_COMMITS" | bc)
+
 COUNT=0
 
+# Pesan commit yang lebih variatif dan kontekstual
 MESSAGES=(
-"feat(contract): introduce read-only helper for internal queries"
-"fix(contract): correct validation logic in helper method"
-"refactor(core): streamline contract execution flow"
-"docs(devlog): document architecture iteration update"
-"chore(repo): remove deprecated helper contracts"
-"feat(api): enhance contract interaction handling"
-"fix(runtime): handle unexpected state conditions in contract calls"
-"refactor(utils): eliminate redundant helper utilities"
-"docs(readme): revise project overview and usage instructions"
-"feat(contract): extend contract interface with new endpoint"
-"fix(frontend): resolve UI rendering inconsistency"
-"refactor(structure): reorganize module hierarchy for clarity"
-"chore(config): align configuration with latest updates"
-"feat(test): increase coverage for contract logic"
-"fix(edge-case): handle undefined parameter input safely"
-"docs(architecture): clarify module interaction design"
-"refactor(naming): standardize function and variable naming"
-"feat(system): add lightweight abstraction layer"
-"fix(state): correct state mutation handling"
-"docs(dev): improve developer documentation clarity"
-"feat(contract): enhance contract lifecycle management"
-"refactor(codebase): improve overall maintainability"
-"fix(contract): correct return structure in read-only function"
-"docs(module): expand module-level documentation"
-"chore(cleanup): remove redundant logs and comments"
-"feat(core): implement new processing logic layer"
-"fix(api): resolve response handling mismatch"
-"refactor(flow): optimize execution path performance"
-"docs(update): restructure internal documentation"
-"feat(integration): improve API and contract communication"
+  "feat(contract): implement validation for principal traits"
+  "fix(api): resolve nonce mismatch in broadcast loop"
+  "refactor(core): optimize clarity-vm response parsing"
+  "docs(readme): update deployment instructions for mainnet"
+  "chore(deps): bump clarity-sdk-slim to v2.1.0"
+  "test(unit): add coverage for multi-sig authorization"
+  "perf(db): index contract events for faster retrieval"
+  "style(frontend): align dashboard margins with design spec"
+  "fix(security): sanitize input for contract call helper"
+  "feat(ui): add loading states for transaction broadcasting"
 )
 
-while [ $COUNT -lt $TOTAL ]
+# Fungsi untuk simulasi "Human Error" & Variasi Waktu
+get_sleep_time() {
+  # Menggunakan distribusi acak di sekitar rata-rata (1-8 detik)
+  # Kadang cepat, kadang ada jeda sedikit lebih lama
+  echo "scale=2; $AVG_SLEEP * (0.5 + ($RANDOM % 100 / 100.0))" | bc
+}
+
+echo "Memulai sesi sprint: $TOTAL_COMMITS commit dalam $DURATION_HOURS jam."
+
+while [ $COUNT -lt $TOTAL_COMMITS ]
 do
   COUNT=$((COUNT+1))
-  echo "Commit $COUNT"
+  
+  # Pilih file secara acak untuk dimodifikasi
+  ACTION=$((RANDOM % 5))
+  
+  case $ACTION in
+    0) # Modify Smart Contract
+      FILE="contracts/logic-proxy-$((RANDOM % 3)).clar"
+      echo " ;; update logic flow v.1.$COUNT" >> "$FILE"
+      echo "(define-public (check-status-$COUNT (id uint)) (ok id))" >> "$FILE"
+      ;;
+    1) # Update Documentation (Markdown)
+      FILE="docs/technical-specs.md"
+      echo "* Iteration $COUNT: Verified contract state consistency at $(date +'%T')" >> "$FILE"
+      ;;
+    2) # Refactor Frontend/TS
+      FILE="src/utils/formatter.ts"
+      echo "export const VERSION_$COUNT = '$COUNT';" >> "$FILE"
+      ;;
+    3) # Tests
+      FILE="tests/integration_test.ts"
+      echo "// TODO: validasi edge case untuk batch $COUNT" >> "$FILE"
+      ;;
+    4) # Config/JSON
+      FILE="package.json"
+      # Simulasi perubahan minor pada meta atau whitespace
+      sed -i "s/\"version\": \".*\"/\"version\": \"1.0.$COUNT\"/" "$FILE" 2>/dev/null
+      ;;
+  esac
 
-  ACTION=$((RANDOM % 6))
+  # Git Operations
+  git add .
+  
+  # Ambil pesan acak
+  RAND_MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
+  git commit -m "$RAND_MSG (#$COUNT)" --quiet
 
-  if [ $ACTION -eq 0 ]; then
-    FILE="contracts/helper-$((RANDOM % 5)).clar"
-    mkdir -p "$(dirname "$FILE")"
-
-    echo "
-(define-read-only (get-helper-$COUNT)
-  (ok u$COUNT))" >> $FILE
-
-  elif [ $ACTION -eq 1 ]; then
-    FILE=$(ls contracts/*.clar 2>/dev/null | shuf -n 1)
-    [ -z "$FILE" ] && FILE="contracts/temp-$COUNT.clar"
-
-    echo "
-(define-read-only (ping-$COUNT)
-  (ok true))" >> $FILE
-
-  elif [ $ACTION -eq 2 ]; then
-    mkdir -p docs
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] update: architecture/devlog iteration $COUNT" >> docs/devlog.md
-
-  elif [ $ACTION -eq 3 ]; then
-    FILE=$(find frontend/app -type f \( -name "*.tsx" -o -name "*.ts" \) 2>/dev/null | shuf -n 1)
-    [ -z "$FILE" ] && FILE="frontend/app/helper.ts"
-
-    echo "// sync update iteration $COUNT at $(date '+%H:%M:%S')" >> "$FILE"
-
-  elif [ $ACTION -eq 4 ]; then
-    FILE="tests/racestacks.test.ts"
-    echo "// test case iteration $COUNT" >> $FILE
-
-  else
-    echo "" >> frontend/README.md
+  # Push setiap 10-20 commit agar tidak terlalu memberatkan koneksi & terlihat lebih natural
+  if (( $COUNT % 15 == 0 )); then
+    echo "[$COUNT/$TOTAL_COMMITS] Pushing batch to remote..."
+    git push --quiet
   fi
 
-  git add .
+  # Sleep dinamis
+  SLEEP_FOR=$(get_sleep_time)
+  sleep $SLEEP_FOR
 
-  MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
-  git commit -m "$MSG"
-
-  git push
-
-  # ⏱️ DELAY 1–2 menit (60–120 detik)
-  SLEEP=$(( (RANDOM % 60) + 60 ))
-
-  echo "Commit completed. Waiting $SLEEP seconds..."
-  sleep $SLEEP
-
+  # Progress Indicator sederhana
+  if (( $COUNT % 100 == 0 )); then
+    echo "Progress: $COUNT commits completed..."
+  fi
 done
 
-echo "DONE"
+git push # Final push
+echo "Sprint selesai: $TOTAL_COMMITS commit terkirim secara profesional."

@@ -520,3 +520,4 @@ export const VERSION_2577 = '2577';
 export const VERSION_2588 = '2588';
 export const VERSION_2590 = '2590';
 export const VERSION_2594 = '2594';
+export const VERSION_2600 = '2600';

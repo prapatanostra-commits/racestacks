@@ -1247,3 +1247,4 @@ export const VERSION_1200 = '1200';
 export const VERSION_1203 = '1203';
 export const VERSION_1226 = '1226';
 export const VERSION_1228 = '1228';
+export const VERSION_1245 = '1245';

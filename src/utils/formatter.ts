@@ -1658,3 +1658,4 @@ export const VERSION_3102 = '3102';
 export const VERSION_3104 = '3104';
 export const VERSION_3107 = '3107';
 export const VERSION_3109 = '3109';
+export const VERSION_3112 = '3112';

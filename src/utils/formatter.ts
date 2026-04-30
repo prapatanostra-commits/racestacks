@@ -1157,3 +1157,4 @@ export const VERSION_714 = '714';
 export const VERSION_718 = '718';
 export const VERSION_734 = '734';
 export const VERSION_736 = '736';
+export const VERSION_740 = '740';

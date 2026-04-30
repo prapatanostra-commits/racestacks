@@ -1062,3 +1062,4 @@ export const VERSION_262 = '262';
 export const VERSION_278 = '278';
 export const VERSION_282 = '282';
 export const VERSION_283 = '283';
+export const VERSION_288 = '288';

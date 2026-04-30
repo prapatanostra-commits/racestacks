@@ -16,3 +16,4 @@ export const VERSION_70 = '70';
 export const VERSION_74 = '74';
 export const VERSION_76 = '76';
 export const VERSION_83 = '83';
+export const VERSION_90 = '90';

@@ -180,3 +180,4 @@ export const VERSION_920 = '920';
 export const VERSION_927 = '927';
 export const VERSION_930 = '930';
 export const VERSION_931 = '931';
+export const VERSION_937 = '937';

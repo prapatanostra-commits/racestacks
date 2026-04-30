@@ -1736,3 +1736,4 @@ export const VERSION_86 = '86';
 export const VERSION_87 = '87';
 export const VERSION_90 = '90';
 export const VERSION_101 = '101';
+export const VERSION_107 = '107';

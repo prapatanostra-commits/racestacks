@@ -675,3 +675,4 @@ export const VERSION_3359 = '3359';
 export const VERSION_3365 = '3365';
 export const VERSION_3367 = '3367';
 export const VERSION_3375 = '3375';
+export const VERSION_3379 = '3379';

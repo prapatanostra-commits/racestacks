@@ -4,3 +4,4 @@ export const VERSION_21 = '21';
 export const VERSION_26 = '26';
 export const VERSION_28 = '28';
 export const VERSION_29 = '29';
+export const VERSION_32 = '32';

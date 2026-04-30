@@ -475,3 +475,4 @@ export const VERSION_2375 = '2375';
 export const VERSION_2386 = '2386';
 export const VERSION_2404 = '2404';
 export const VERSION_2417 = '2417';
+export const VERSION_2418 = '2418';

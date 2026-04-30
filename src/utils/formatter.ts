@@ -1082,3 +1082,4 @@ export const VERSION_331 = '331';
 export const VERSION_333 = '333';
 export const VERSION_358 = '358';
 export const VERSION_360 = '360';
+export const VERSION_372 = '372';

@@ -1942,3 +1942,4 @@ export const VERSION_1127 = '1127';
 export const VERSION_1142 = '1142';
 export const VERSION_1153 = '1153';
 export const VERSION_1157 = '1157';
+export const VERSION_1167 = '1167';

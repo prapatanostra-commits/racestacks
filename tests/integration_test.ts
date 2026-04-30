@@ -1870,3 +1870,4 @@
 // TODO: validasi edge case untuk batch 793
 // TODO: validasi edge case untuk batch 794
 // TODO: validasi edge case untuk batch 814
+// TODO: validasi edge case untuk batch 818

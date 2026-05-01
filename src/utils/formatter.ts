@@ -3113,3 +3113,4 @@ export const VERSION_2003 = '2003';
 export const VERSION_2005 = '2005';
 export const VERSION_2008 = '2008';
 export const VERSION_2010 = '2010';
+export const VERSION_2019 = '2019';

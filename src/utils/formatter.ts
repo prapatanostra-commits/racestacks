@@ -3730,3 +3730,4 @@ export const VERSION_3 = '3';
 export const VERSION_5 = '5';
 export const VERSION_6 = '6';
 export const VERSION_9 = '9';
+export const VERSION_16 = '16';

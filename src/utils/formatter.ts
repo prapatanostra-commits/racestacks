@@ -3155,3 +3155,4 @@ export const VERSION_2232 = '2232';
 export const VERSION_2239 = '2239';
 export const VERSION_2242 = '2242';
 export const VERSION_2249 = '2249';
+export const VERSION_2252 = '2252';

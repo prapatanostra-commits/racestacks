@@ -3185,3 +3185,4 @@ export const VERSION_2406 = '2406';
 export const VERSION_2408 = '2408';
 export const VERSION_2411 = '2411';
 export const VERSION_2416 = '2416';
+export const VERSION_2418 = '2418';

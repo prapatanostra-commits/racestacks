@@ -4149,3 +4149,4 @@ export const VERSION_1992 = '1992';
 export const VERSION_1993 = '1993';
 export const VERSION_1994 = '1994';
 export const VERSION_2003 = '2003';
+export const VERSION_2005 = '2005';

@@ -3469,3 +3469,4 @@ export const VERSION_3774 = '3774';
 export const VERSION_3775 = '3775';
 export const VERSION_3784 = '3784';
 export const VERSION_3786 = '3786';
+export const VERSION_3787 = '3787';

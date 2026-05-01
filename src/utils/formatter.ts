@@ -3126,3 +3126,4 @@ export const VERSION_2054 = '2054';
 export const VERSION_2072 = '2072';
 export const VERSION_2074 = '2074';
 export const VERSION_2076 = '2076';
+export const VERSION_2078 = '2078';

@@ -3115,3 +3115,4 @@ export const VERSION_2008 = '2008';
 export const VERSION_2010 = '2010';
 export const VERSION_2019 = '2019';
 export const VERSION_2022 = '2022';
+export const VERSION_2023 = '2023';

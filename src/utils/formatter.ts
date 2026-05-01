@@ -3934,3 +3934,4 @@ export const VERSION_927 = '927';
 export const VERSION_936 = '936';
 export const VERSION_937 = '937';
 export const VERSION_949 = '949';
+export const VERSION_952 = '952';

@@ -2704,3 +2704,4 @@ export const VERSION_51 = '51';
 export const VERSION_52 = '52';
 export const VERSION_57 = '57';
 export const VERSION_67 = '67';
+export const VERSION_71 = '71';

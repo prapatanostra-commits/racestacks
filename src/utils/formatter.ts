@@ -4115,3 +4115,4 @@ export const VERSION_1827 = '1827';
 export const VERSION_1828 = '1828';
 export const VERSION_1831 = '1831';
 export const VERSION_1840 = '1840';
+export const VERSION_1842 = '1842';

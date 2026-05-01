@@ -4090,3 +4090,4 @@ export const VERSION_1726 = '1726';
 export const VERSION_1727 = '1727';
 export const VERSION_1730 = '1730';
 export const VERSION_1731 = '1731';
+export const VERSION_1744 = '1744';

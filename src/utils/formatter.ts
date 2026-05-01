@@ -3095,3 +3095,4 @@ export const VERSION_1907 = '1907';
 export const VERSION_1915 = '1915';
 export const VERSION_1917 = '1917';
 export const VERSION_1921 = '1921';
+export const VERSION_1926 = '1926';

@@ -2018,3 +2018,5 @@
 (define-public (check-status-2168 (id uint)) (ok id))
  ;; update logic flow v.1.2178
 (define-public (check-status-2178 (id uint)) (ok id))
+ ;; update logic flow v.1.2196
+(define-public (check-status-2196 (id uint)) (ok id))

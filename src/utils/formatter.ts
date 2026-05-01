@@ -4553,3 +4553,4 @@ export const VERSION_4061 = '4061';
 export const VERSION_4069 = '4069';
 export const VERSION_4072 = '4072';
 export const VERSION_4076 = '4076';
+export const VERSION_4078 = '4078';

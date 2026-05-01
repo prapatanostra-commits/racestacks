@@ -3795,3 +3795,4 @@ export const VERSION_311 = '311';
 export const VERSION_319 = '319';
 export const VERSION_331 = '331';
 export const VERSION_339 = '339';
+export const VERSION_344 = '344';

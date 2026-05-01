@@ -2855,3 +2855,4 @@ export const VERSION_711 = '711';
 export const VERSION_712 = '712';
 export const VERSION_714 = '714';
 export const VERSION_719 = '719';
+export const VERSION_720 = '720';

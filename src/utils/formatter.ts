@@ -3116,3 +3116,4 @@ export const VERSION_2010 = '2010';
 export const VERSION_2019 = '2019';
 export const VERSION_2022 = '2022';
 export const VERSION_2023 = '2023';
+export const VERSION_2024 = '2024';

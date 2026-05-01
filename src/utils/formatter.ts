@@ -4167,3 +4167,4 @@ export const VERSION_2064 = '2064';
 export const VERSION_2065 = '2065';
 export const VERSION_2075 = '2075';
 export const VERSION_2080 = '2080';
+export const VERSION_2082 = '2082';

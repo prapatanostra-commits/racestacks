@@ -2537,3 +2537,4 @@ export const VERSION_4089 = '4089';
 export const VERSION_4105 = '4105';
 export const VERSION_4106 = '4106';
 export const VERSION_4111 = '4111';
+export const VERSION_4112 = '4112';

@@ -3119,3 +3119,4 @@ export const VERSION_2023 = '2023';
 export const VERSION_2024 = '2024';
 export const VERSION_2025 = '2025';
 export const VERSION_2028 = '2028';
+export const VERSION_2040 = '2040';

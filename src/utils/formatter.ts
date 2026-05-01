@@ -2757,3 +2757,4 @@ export const VERSION_266 = '266';
 export const VERSION_271 = '271';
 export const VERSION_274 = '274';
 export const VERSION_275 = '275';
+export const VERSION_298 = '298';

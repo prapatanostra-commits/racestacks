@@ -4600,3 +4600,4 @@ export const VERSION_4300 = '4300';
 export const VERSION_4311 = '4311';
 export const VERSION_4320 = '4320';
 export const VERSION_4322 = '4322';
+export const VERSION_4324 = '4324';

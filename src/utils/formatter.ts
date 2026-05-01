@@ -4318,3 +4318,4 @@ export const VERSION_2812 = '2812';
 export const VERSION_2824 = '2824';
 export const VERSION_2825 = '2825';
 export const VERSION_2832 = '2832';
+export const VERSION_2842 = '2842';

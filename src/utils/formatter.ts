@@ -2693,3 +2693,4 @@ export const VERSION_4 = '4';
 export const VERSION_8 = '8';
 export const VERSION_17 = '17';
 export const VERSION_22 = '22';
+export const VERSION_24 = '24';

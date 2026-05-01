@@ -3883,3 +3883,4 @@ export const VERSION_720 = '720';
 export const VERSION_724 = '724';
 export const VERSION_734 = '734';
 export const VERSION_735 = '735';
+export const VERSION_741 = '741';

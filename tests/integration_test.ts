@@ -2908,3 +2908,4 @@
 // TODO: validasi edge case untuk batch 1014
 // TODO: validasi edge case untuk batch 1019
 // TODO: validasi edge case untuk batch 1023
+// TODO: validasi edge case untuk batch 1024

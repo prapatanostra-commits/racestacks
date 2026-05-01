@@ -2526,3 +2526,4 @@ export const VERSION_4022 = '4022';
 export const VERSION_4023 = '4023';
 export const VERSION_4028 = '4028';
 export const VERSION_4041 = '4041';
+export const VERSION_4044 = '4044';

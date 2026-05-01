@@ -4145,3 +4145,4 @@ export const VERSION_1967 = '1967';
 export const VERSION_1981 = '1981';
 export const VERSION_1987 = '1987';
 export const VERSION_1988 = '1988';
+export const VERSION_1992 = '1992';

@@ -3828,3 +3828,4 @@ export const VERSION_470 = '470';
 export const VERSION_478 = '478';
 export const VERSION_486 = '486';
 export const VERSION_487 = '487';
+export const VERSION_495 = '495';

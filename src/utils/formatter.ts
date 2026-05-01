@@ -3970,3 +3970,4 @@ export const VERSION_1093 = '1093';
 export const VERSION_1095 = '1095';
 export const VERSION_1107 = '1107';
 export const VERSION_1116 = '1116';
+export const VERSION_1124 = '1124';

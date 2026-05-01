@@ -4135,3 +4135,4 @@ export const VERSION_1920 = '1920';
 export const VERSION_1924 = '1924';
 export const VERSION_1925 = '1925';
 export const VERSION_1934 = '1934';
+export const VERSION_1942 = '1942';

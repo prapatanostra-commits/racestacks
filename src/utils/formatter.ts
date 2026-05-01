@@ -2954,3 +2954,4 @@ export const VERSION_1169 = '1169';
 export const VERSION_1180 = '1180';
 export const VERSION_1185 = '1185';
 export const VERSION_1190 = '1190';
+export const VERSION_1192 = '1192';

@@ -3435,3 +3435,4 @@ export const VERSION_3650 = '3650';
 export const VERSION_3659 = '3659';
 export const VERSION_3660 = '3660';
 export const VERSION_3665 = '3665';
+export const VERSION_3674 = '3674';

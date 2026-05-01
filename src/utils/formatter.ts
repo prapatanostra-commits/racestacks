@@ -3004,3 +3004,4 @@ export const VERSION_1399 = '1399';
 export const VERSION_1401 = '1401';
 export const VERSION_1402 = '1402';
 export const VERSION_1403 = '1403';
+export const VERSION_1406 = '1406';

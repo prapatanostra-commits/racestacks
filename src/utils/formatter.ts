@@ -4212,3 +4212,4 @@ export const VERSION_2256 = '2256';
 export const VERSION_2260 = '2260';
 export const VERSION_2264 = '2264';
 export const VERSION_2265 = '2265';
+export const VERSION_2266 = '2266';

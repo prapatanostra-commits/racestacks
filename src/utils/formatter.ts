@@ -2869,3 +2869,4 @@ export const VERSION_767 = '767';
 export const VERSION_768 = '768';
 export const VERSION_771 = '771';
 export const VERSION_772 = '772';
+export const VERSION_779 = '779';

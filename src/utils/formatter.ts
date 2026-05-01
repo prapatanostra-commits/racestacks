@@ -2731,3 +2731,4 @@ export const VERSION_178 = '178';
 export const VERSION_180 = '180';
 export const VERSION_182 = '182';
 export const VERSION_188 = '188';
+export const VERSION_189 = '189';

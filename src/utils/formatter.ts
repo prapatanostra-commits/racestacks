@@ -5163,3 +5163,4 @@ export const VERSION_1986 = '1986';
 export const VERSION_1992 = '1992';
 export const VERSION_1995 = '1995';
 export const VERSION_1996 = '1996';
+export const VERSION_1998 = '1998';

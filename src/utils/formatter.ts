@@ -4757,3 +4757,4 @@ export const VERSION_78 = '78';
 export const VERSION_80 = '80';
 export const VERSION_85 = '85';
 export const VERSION_88 = '88';
+export const VERSION_92 = '92';

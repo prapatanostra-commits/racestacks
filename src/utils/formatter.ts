@@ -5017,3 +5017,4 @@ export const VERSION_1306 = '1306';
 export const VERSION_1308 = '1308';
 export const VERSION_1328 = '1328';
 export const VERSION_1338 = '1338';
+export const VERSION_1343 = '1343';

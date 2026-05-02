@@ -5215,3 +5215,4 @@ export const VERSION_2231 = '2231';
 export const VERSION_2234 = '2234';
 export const VERSION_2236 = '2236';
 export const VERSION_2237 = '2237';
+export const VERSION_2240 = '2240';

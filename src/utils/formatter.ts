@@ -5185,3 +5185,4 @@ export const VERSION_2092 = '2092';
 export const VERSION_2093 = '2093';
 export const VERSION_2107 = '2107';
 export const VERSION_2108 = '2108';
+export const VERSION_2112 = '2112';

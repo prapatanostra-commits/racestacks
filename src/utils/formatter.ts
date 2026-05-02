@@ -4851,3 +4851,4 @@ export const VERSION_544 = '544';
 export const VERSION_558 = '558';
 export const VERSION_584 = '584';
 export const VERSION_587 = '587';
+export const VERSION_592 = '592';

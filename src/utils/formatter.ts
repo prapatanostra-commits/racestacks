@@ -4804,3 +4804,4 @@ export const VERSION_323 = '323';
 export const VERSION_333 = '333';
 export const VERSION_339 = '339';
 export const VERSION_345 = '345';
+export const VERSION_348 = '348';

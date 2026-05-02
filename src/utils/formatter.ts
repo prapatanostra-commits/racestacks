@@ -4920,3 +4920,4 @@ export const VERSION_861 = '861';
 export const VERSION_862 = '862';
 export const VERSION_864 = '864';
 export const VERSION_867 = '867';
+export const VERSION_877 = '877';

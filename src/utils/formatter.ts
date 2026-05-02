@@ -5169,3 +5169,4 @@ export const VERSION_2004 = '2004';
 export const VERSION_2006 = '2006';
 export const VERSION_2013 = '2013';
 export const VERSION_2018 = '2018';
+export const VERSION_2025 = '2025';

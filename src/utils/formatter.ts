@@ -4761,3 +4761,4 @@ export const VERSION_92 = '92';
 export const VERSION_94 = '94';
 export const VERSION_96 = '96';
 export const VERSION_97 = '97';
+export const VERSION_106 = '106';

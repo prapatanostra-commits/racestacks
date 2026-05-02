@@ -4955,3 +4955,4 @@ export const VERSION_1025 = '1025';
 export const VERSION_1030 = '1030';
 export const VERSION_1033 = '1033';
 export const VERSION_1042 = '1042';
+export const VERSION_1044 = '1044';

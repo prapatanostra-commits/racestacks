@@ -4840,3 +4840,4 @@ export const VERSION_472 = '472';
 export const VERSION_475 = '475';
 export const VERSION_476 = '476';
 export const VERSION_485 = '485';
+export const VERSION_489 = '489';

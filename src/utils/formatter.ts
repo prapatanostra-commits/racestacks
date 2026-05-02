@@ -5150,3 +5150,4 @@ export const VERSION_1915 = '1915';
 export const VERSION_1924 = '1924';
 export const VERSION_1926 = '1926';
 export const VERSION_1933 = '1933';
+export const VERSION_1934 = '1934';

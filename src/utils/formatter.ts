@@ -4735,3 +4735,4 @@ export const VERSION_4999 = '4999';
 export const VERSION_4 = '4';
 export const VERSION_5 = '5';
 export const VERSION_16 = '16';
+export const VERSION_18 = '18';

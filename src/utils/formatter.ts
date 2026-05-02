@@ -5429,3 +5429,4 @@ export const VERSION_3294 = '3294';
 export const VERSION_3305 = '3305';
 export const VERSION_3316 = '3316';
 export const VERSION_3332 = '3332';
+export const VERSION_3340 = '3340';

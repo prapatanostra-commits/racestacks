@@ -5002,3 +5002,4 @@ export const VERSION_1243 = '1243';
 export const VERSION_1246 = '1246';
 export const VERSION_1254 = '1254';
 export const VERSION_1262 = '1262';
+export const VERSION_1267 = '1267';

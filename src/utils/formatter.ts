@@ -5060,3 +5060,4 @@ export const VERSION_1478 = '1478';
 export const VERSION_1481 = '1481';
 export const VERSION_1495 = '1495';
 export const VERSION_1500 = '1500';
+export const VERSION_1505 = '1505';

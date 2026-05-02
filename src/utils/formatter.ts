@@ -5146,3 +5146,4 @@ export const VERSION_1876 = '1876';
 export const VERSION_1877 = '1877';
 export const VERSION_1882 = '1882';
 export const VERSION_1898 = '1898';
+export const VERSION_1915 = '1915';

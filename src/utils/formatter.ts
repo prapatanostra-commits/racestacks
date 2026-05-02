@@ -5370,3 +5370,4 @@ export const VERSION_3021 = '3021';
 export const VERSION_3026 = '3026';
 export const VERSION_3030 = '3030';
 export const VERSION_3037 = '3037';
+export const VERSION_3040 = '3040';

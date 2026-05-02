@@ -4759,3 +4759,4 @@ export const VERSION_85 = '85';
 export const VERSION_88 = '88';
 export const VERSION_92 = '92';
 export const VERSION_94 = '94';
+export const VERSION_96 = '96';

@@ -5785,3 +5785,4 @@ export const VERSION_92 = '92';
 export const VERSION_101 = '101';
 export const VERSION_104 = '104';
 export const VERSION_106 = '106';
+export const VERSION_111 = '111';

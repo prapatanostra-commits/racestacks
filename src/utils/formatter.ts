@@ -5819,3 +5819,4 @@ export const VERSION_234 = '234';
 export const VERSION_237 = '237';
 export const VERSION_240 = '240';
 export const VERSION_244 = '244';
+export const VERSION_246 = '246';

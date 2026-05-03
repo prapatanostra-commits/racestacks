@@ -6053,3 +6053,4 @@ export const VERSION_1421 = '1421';
 export const VERSION_1423 = '1423';
 export const VERSION_1425 = '1425';
 export const VERSION_1437 = '1437';
+export const VERSION_1439 = '1439';

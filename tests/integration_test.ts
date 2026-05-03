@@ -6002,3 +6002,4 @@
 // TODO: validasi edge case untuk batch 1872
 // TODO: validasi edge case untuk batch 1875
 // TODO: validasi edge case untuk batch 1876
+// TODO: validasi edge case untuk batch 1878

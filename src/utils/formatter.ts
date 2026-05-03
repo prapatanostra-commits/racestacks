@@ -6153,3 +6153,4 @@ export const VERSION_1909 = '1909';
 export const VERSION_1915 = '1915';
 export const VERSION_1918 = '1918';
 export const VERSION_1938 = '1938';
+export const VERSION_1940 = '1940';

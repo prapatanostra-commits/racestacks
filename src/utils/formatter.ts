@@ -5951,3 +5951,4 @@ export const VERSION_890 = '890';
 export const VERSION_892 = '892';
 export const VERSION_903 = '903';
 export const VERSION_921 = '921';
+export const VERSION_924 = '924';

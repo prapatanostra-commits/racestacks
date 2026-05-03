@@ -6088,3 +6088,4 @@ export const VERSION_1581 = '1581';
 export const VERSION_1582 = '1582';
 export const VERSION_1583 = '1583';
 export const VERSION_1604 = '1604';
+export const VERSION_1605 = '1605';

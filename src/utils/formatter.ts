@@ -6093,3 +6093,4 @@ export const VERSION_1606 = '1606';
 export const VERSION_1611 = '1611';
 export const VERSION_1613 = '1613';
 export const VERSION_1615 = '1615';
+export const VERSION_1618 = '1618';

@@ -6546,3 +6546,4 @@ export const VERSION_3866 = '3866';
 export const VERSION_3867 = '3867';
 export const VERSION_3868 = '3868';
 export const VERSION_3877 = '3877';
+export const VERSION_3879 = '3879';

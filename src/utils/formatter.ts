@@ -6010,3 +6010,4 @@ export const VERSION_1192 = '1192';
 export const VERSION_1194 = '1194';
 export const VERSION_1197 = '1197';
 export const VERSION_1202 = '1202';
+export const VERSION_1204 = '1204';

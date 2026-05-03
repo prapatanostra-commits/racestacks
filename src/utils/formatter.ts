@@ -6068,3 +6068,4 @@ export const VERSION_1470 = '1470';
 export const VERSION_1471 = '1471';
 export const VERSION_1485 = '1485';
 export const VERSION_1488 = '1488';
+export const VERSION_1495 = '1495';

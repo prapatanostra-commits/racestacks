@@ -4042,3 +4042,5 @@
 (define-public (check-status-2639 (id uint)) (ok id))
  ;; update logic flow v.1.2645
 (define-public (check-status-2645 (id uint)) (ok id))
+ ;; update logic flow v.1.2649
+(define-public (check-status-2649 (id uint)) (ok id))

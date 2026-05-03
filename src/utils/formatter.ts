@@ -6120,3 +6120,4 @@ export const VERSION_1710 = '1710';
 export const VERSION_1719 = '1719';
 export const VERSION_1725 = '1725';
 export const VERSION_1737 = '1737';
+export const VERSION_1744 = '1744';

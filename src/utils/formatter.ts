@@ -6265,3 +6265,4 @@ export const VERSION_2460 = '2460';
 export const VERSION_2463 = '2463';
 export const VERSION_2465 = '2465';
 export const VERSION_2476 = '2476';
+export const VERSION_2478 = '2478';

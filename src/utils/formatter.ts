@@ -6334,3 +6334,4 @@ export const VERSION_2820 = '2820';
 export const VERSION_2823 = '2823';
 export const VERSION_2831 = '2831';
 export const VERSION_2832 = '2832';
+export const VERSION_2845 = '2845';

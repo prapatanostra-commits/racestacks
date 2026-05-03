@@ -6140,3 +6140,4 @@ export const VERSION_1836 = '1836';
 export const VERSION_1857 = '1857';
 export const VERSION_1860 = '1860';
 export const VERSION_1863 = '1863';
+export const VERSION_1866 = '1866';

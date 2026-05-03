@@ -5936,3 +5936,4 @@ export const VERSION_816 = '816';
 export const VERSION_821 = '821';
 export const VERSION_836 = '836';
 export const VERSION_840 = '840';
+export const VERSION_843 = '843';

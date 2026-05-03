@@ -6179,3 +6179,4 @@ export const VERSION_2013 = '2013';
 export const VERSION_2018 = '2018';
 export const VERSION_2023 = '2023';
 export const VERSION_2026 = '2026';
+export const VERSION_2052 = '2052';

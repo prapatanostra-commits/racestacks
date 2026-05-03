@@ -5943,3 +5943,4 @@
 // TODO: validasi edge case untuk batch 1580
 // TODO: validasi edge case untuk batch 1587
 // TODO: validasi edge case untuk batch 1588
+// TODO: validasi edge case untuk batch 1592

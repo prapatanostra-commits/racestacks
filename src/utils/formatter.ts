@@ -6741,3 +6741,4 @@ export const VERSION_4827 = '4827';
 export const VERSION_4834 = '4834';
 export const VERSION_4839 = '4839';
 export const VERSION_4843 = '4843';
+export const VERSION_4845 = '4845';

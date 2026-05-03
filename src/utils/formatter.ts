@@ -6485,3 +6485,4 @@ export const VERSION_3570 = '3570';
 export const VERSION_3593 = '3593';
 export const VERSION_3597 = '3597';
 export const VERSION_3603 = '3603';
+export const VERSION_3606 = '3606';

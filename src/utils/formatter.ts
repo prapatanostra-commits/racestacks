@@ -5927,3 +5927,4 @@ export const VERSION_776 = '776';
 export const VERSION_784 = '784';
 export const VERSION_790 = '790';
 export const VERSION_792 = '792';
+export const VERSION_804 = '804';

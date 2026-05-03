@@ -6166,3 +6166,4 @@ export const VERSION_1971 = '1971';
 export const VERSION_1974 = '1974';
 export const VERSION_1976 = '1976';
 export const VERSION_1978 = '1978';
+export const VERSION_1979 = '1979';

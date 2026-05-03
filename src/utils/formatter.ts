@@ -6156,3 +6156,4 @@ export const VERSION_1938 = '1938';
 export const VERSION_1940 = '1940';
 export const VERSION_1942 = '1942';
 export const VERSION_1948 = '1948';
+export const VERSION_1949 = '1949';

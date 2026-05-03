@@ -6681,3 +6681,4 @@ export const VERSION_4496 = '4496';
 export const VERSION_4497 = '4497';
 export const VERSION_4500 = '4500';
 export const VERSION_4504 = '4504';
+export const VERSION_4523 = '4523';

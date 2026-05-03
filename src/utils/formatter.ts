@@ -6027,3 +6027,4 @@ export const VERSION_1269 = '1269';
 export const VERSION_1280 = '1280';
 export const VERSION_1281 = '1281';
 export const VERSION_1286 = '1286';
+export const VERSION_1295 = '1295';

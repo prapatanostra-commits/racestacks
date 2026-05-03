@@ -6019,3 +6019,4 @@ export const VERSION_1227 = '1227';
 export const VERSION_1229 = '1229';
 export const VERSION_1233 = '1233';
 export const VERSION_1235 = '1235';
+export const VERSION_1241 = '1241';

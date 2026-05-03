@@ -5905,3 +5905,4 @@ export const VERSION_647 = '647';
 export const VERSION_658 = '658';
 export const VERSION_660 = '660';
 export const VERSION_665 = '665';
+export const VERSION_677 = '677';

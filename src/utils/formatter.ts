@@ -6118,3 +6118,4 @@ export const VERSION_1705 = '1705';
 export const VERSION_1709 = '1709';
 export const VERSION_1710 = '1710';
 export const VERSION_1719 = '1719';
+export const VERSION_1725 = '1725';

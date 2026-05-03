@@ -6502,3 +6502,4 @@ export const VERSION_3652 = '3652';
 export const VERSION_3659 = '3659';
 export const VERSION_3664 = '3664';
 export const VERSION_3666 = '3666';
+export const VERSION_3671 = '3671';

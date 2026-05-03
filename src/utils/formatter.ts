@@ -6176,3 +6176,4 @@ export const VERSION_2000 = '2000';
 export const VERSION_2001 = '2001';
 export const VERSION_2009 = '2009';
 export const VERSION_2013 = '2013';
+export const VERSION_2018 = '2018';

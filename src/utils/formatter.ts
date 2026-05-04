@@ -6787,3 +6787,4 @@ export const VERSION_23 = '23';
 export const VERSION_24 = '24';
 export const VERSION_30 = '30';
 export const VERSION_41 = '41';
+export const VERSION_47 = '47';

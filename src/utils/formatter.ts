@@ -6841,3 +6841,4 @@ export const VERSION_285 = '285';
 export const VERSION_290 = '290';
 export const VERSION_292 = '292';
 export const VERSION_294 = '294';
+export const VERSION_296 = '296';

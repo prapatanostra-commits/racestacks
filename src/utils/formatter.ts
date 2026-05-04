@@ -6890,3 +6890,4 @@ export const VERSION_490 = '490';
 export const VERSION_495 = '495';
 export const VERSION_498 = '498';
 export const VERSION_500 = '500';
+export const VERSION_502 = '502';

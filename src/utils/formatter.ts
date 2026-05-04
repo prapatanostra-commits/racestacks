@@ -6790,3 +6790,4 @@ export const VERSION_41 = '41';
 export const VERSION_47 = '47';
 export const VERSION_48 = '48';
 export const VERSION_54 = '54';
+export const VERSION_59 = '59';

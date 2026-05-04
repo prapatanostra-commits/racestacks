@@ -6860,3 +6860,4 @@ export const VERSION_353 = '353';
 export const VERSION_360 = '360';
 export const VERSION_362 = '362';
 export const VERSION_367 = '367';
+export const VERSION_372 = '372';

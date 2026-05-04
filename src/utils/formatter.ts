@@ -6950,3 +6950,4 @@ export const VERSION_802 = '802';
 export const VERSION_804 = '804';
 export const VERSION_809 = '809';
 export const VERSION_816 = '816';
+export const VERSION_820 = '820';

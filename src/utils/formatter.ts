@@ -6892,3 +6892,4 @@ export const VERSION_498 = '498';
 export const VERSION_500 = '500';
 export const VERSION_502 = '502';
 export const VERSION_504 = '504';
+export const VERSION_507 = '507';

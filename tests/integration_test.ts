@@ -6753,3 +6753,4 @@
 // TODO: validasi edge case untuk batch 663
 // TODO: validasi edge case untuk batch 665
 // TODO: validasi edge case untuk batch 666
+// TODO: validasi edge case untuk batch 667

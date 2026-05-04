@@ -6825,3 +6825,4 @@ export const VERSION_220 = '220';
 export const VERSION_222 = '222';
 export const VERSION_232 = '232';
 export const VERSION_238 = '238';
+export const VERSION_242 = '242';

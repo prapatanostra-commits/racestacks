@@ -6847,3 +6847,4 @@ export const VERSION_301 = '301';
 export const VERSION_303 = '303';
 export const VERSION_305 = '305';
 export const VERSION_319 = '319';
+export const VERSION_320 = '320';

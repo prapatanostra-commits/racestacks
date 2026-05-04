@@ -6920,3 +6920,4 @@ export const VERSION_636 = '636';
 export const VERSION_640 = '640';
 export const VERSION_645 = '645';
 export const VERSION_649 = '649';
+export const VERSION_652 = '652';
